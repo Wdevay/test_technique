@@ -1,5 +1,5 @@
-TEST TECHNIQUE UPYNE
-===================
+TEST TECHNIQUE
+==============
 
 ## Description
 
